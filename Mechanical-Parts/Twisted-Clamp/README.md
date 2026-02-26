@@ -217,6 +217,9 @@ Multiple mounting hole configurations
 Stress analysis and load optimization
 
 
+[![Watch the video](https://img.youtube.com/vi/NRVGvKAqSqY/0.jpg)](https://www.youtube.com/watch?v=NRVGvKAqSqY)
+
+
 
 📜 License
 
@@ -225,4 +228,5 @@ Stress analysis and load optimization
 This project is shared for educational and prototyping purposes.
 
 If you would like to release it as open-source, consider adding an MIT or Apache 2.0 license file.
+
 
